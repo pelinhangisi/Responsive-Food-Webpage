@@ -10,6 +10,23 @@
 * Başlık kısmı oluşturma. <br>
 * Fontawesome ile ikon oluşturma. <br>
 <img src="ReadmeImages/r1.jpg">
+`<!-- Section 1 -->
+        <section class="section-1">
+            <h1 class="heading">Foods</h1>
+            <div class="section-1-icons">
+                <i class="fas fa-egg change"></i>
+                <i class="fas fa-stroopwafel"></i>
+                <i class="fas fa-cheese"></i>
+                <i class="fas fa-hotdog"></i>
+                <i class="fas fa-drumstick-bite"></i>
+                <i class="fas fa-apple-alt"></i>
+                <i class="fas fa-ice-cream"></i>
+                <i class="fas fa-fish"></i>
+                <i class="fas fa-cookie"></i>
+                <i class="fas fa-seedling"></i>
+            </div>
+        </section>
+    <!-- End Section 1 -->`
 
 * Oluşturulan kısımların CSS parçasını hazırlama. <br>
 * CSS >> <br>
