@@ -17,7 +17,7 @@
     * Kullanılacak olan yazı tipi google fonts aracılığı ile css dosyasına import edildi.  <br>
     * Bütün sayfa genelinde kullanılacak olan CSS özellikleri tanımlandı. <br>
     * Section 1 bölümü için CSS özellikleri tanımlandı. (Başta genel section-1 özellikleri tanımlanırken akabinde başlık ve ikonlar ile alakalı css özellikleri tanımlandı.) <br>
-<img src="ReadMeImages/r2.jpg">
+<img src="ReadMeImages/r2.JPG">
 
 * Section-1 kısmı ile alakalı ikonların geçişini sağlamak için JS parçası oluşturuldu. <br>
 * JS >> <br> 
