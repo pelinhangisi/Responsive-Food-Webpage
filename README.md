@@ -29,7 +29,7 @@
 * HTML >>
     * "heading" için css te düzenlenen özellik buradaki başlık içinde aynı olacağı için aynı class tanımlaması yapıldı ve ".heading / css" kısmı genel ortak kullanım için hazırlanan kısıma eklendi. (Common Style) <br>
     * 3 adet İsim, Resim ve Sipariş verme butonu içeren kart oluşturuldu. <br>
-   <img src="ReadMeImages/rr4.JPG">
+<img src="ReadMeImages/rr4.JPG">
 
 * CSS >>
     * Section 2 bölümü için CSS özellikleri tanımlandı. Öncelikle oluşturulan kartların özelliği verilirken aynı zamanda kart içerisinde yer alan resimlerin, isimlerin ve sipariş ver butonunun css özellikleri tanımlandı.
